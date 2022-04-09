@@ -1,0 +1,7 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+
+export const CREATE_EMPLOYEE = "CREATE_EMPLOYEE";
+
+export const EMPLOYEES_SUCCESS = "EMPLOYEES_SUCCESS";
+
+export const LOGOUT = "LOGOUT";

@@ -1,0 +1,17 @@
+
+    
+    .table{
+    
+        width: 1000px;
+        margin:40px auto;
+    
+        border: 1px solid black;
+    
+    }
+    
+    .table th,td{
+        padding: 4px;
+        border: 1px solid black;
+    }
+    
+    
